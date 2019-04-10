@@ -1,3 +1,3 @@
 # ReadMe -- HelloWorld
-That's me committing changes
-What's the problem?
+That's me committing changes.
+I'm even better now!
